@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "demo",
+    "lastName": "user",
+    "address1": "Pune",
+    "country": "India",
+    "city": "Pune",
+    "postcode": "411001",
+    "state": "Maharashtra",
+    "email": "askomdch@gmail.com"
+  },
+  {
+    "firstName": "demo",
+    "lastName": "user",
+    "address1": "San Francisco",
+    "country": "United States (US)",
+    "city": "San Francisco",
+    "postcode": "94132",
+    "state": "California",
+    "email": "askomdch@gmail.com"
+  },
+  {
+    "firstName": "demo",
+    "lastName": "user",
+    "address1": "London",
+    "country": "United Kingdom (UK)",
+    "city": "London",
+    "postcode": "E18RU",
+    "state": "Greater London",
+    "email": "askomdch@gmail.com"
+  }
+]

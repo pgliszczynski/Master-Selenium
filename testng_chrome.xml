@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1" thread-count="4" parallel="tests">
+  <test name="Chrome" parallel="methods">
+    <parameter name="browser" value="CHROME"/>
+    <classes>
+      <class name="org.training.pom.test.e2e.MyFirstTestCase"/>
+    </classes>
+  </test>
+</suite>
